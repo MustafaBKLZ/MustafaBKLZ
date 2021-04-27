@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning C++ and AI
 - 💬 Ask me about help for C#, SQL and DEvExpress on mustafabukulmez3446@gmail.com
 - 📫 How to reach me: Mail on mustafabukulmez3446@gmail.com
-- 
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
