@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on C#, SQL and DEvExpress with Desktop App Programming
 - 🌱 I’m currently learning C++ and AI
-- 💬 Ask me about help for C#, SQL and DEvExpress on mustafabukulmez3446@gmail.com
+- 💬 Ask me about help for C#, SQL and DevExpress on mustafabukulmez3446@gmail.com
 - 📫 How to reach me: Mail on mustafabukulmez3446@gmail.com
 <!--
 Here are some ideas to get you started:
