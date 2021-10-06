@@ -5,7 +5,6 @@
 - 💬 Yu can ask me about help for C#, SQL and DevExpress
 - 📫 How to reach me: Mail on mustafabukulmez3446@gmail.com
 - ⚡ Fun fact: I'm love mangas and animes :)
-- 
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
