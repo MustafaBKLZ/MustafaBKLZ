@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Desktop App Programming with C#, SQL and DevExpress & Web Programming with PHP
 - 🌱 I’m currently try learning Blueprint, Unreal Engine, Phyton, C++ and AI
-- 💬 Yu can ask me about help for C#, SQL and DevExpress
+- 💬 Ask me about Help for C#, SQL and DevExpress
 - 📫 How to reach me: Mail on mustafabukulmez3446@gmail.com
 - ⚡ Fun fact: I'm love mangas and animes :)
 <!--
