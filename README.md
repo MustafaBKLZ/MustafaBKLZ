@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=MustafaBKLZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBKLZ&layout=compact&theme=dark">
+
+Yazılım Projesine Başlamadan Önce
+- https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-1/
+- https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-2/
+- https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-3/
+- https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-4/
+- https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-5/
