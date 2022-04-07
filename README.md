@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=MustafaBKLZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBKLZ&layout=compact&theme=dark" width="500" >
+
+
+My Udemy Couse 1: Üretim ve Yönetim Sistemleri
+https://www.udemy.com/course/uretim-ve-yonetim-sistemleri/learn/lecture/31491770?referralCode=84EE7A457A09BFB17E91
