@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 My Udemy Couse 1: Üretim ve Yönetim Sistemleri
 **https://www.udemy.com/course/uretim-ve-yonetim-sistemleri/?referralCode=84EE7A457A09BFB17E91**
+
+My Udemy Couse 2: Temelden İleri Düzeye C# ve SQL ile Proje Geliştirme: Preparing now. (Hazırlanıyor.)
